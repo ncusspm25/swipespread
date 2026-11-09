@@ -2,6 +2,11 @@
 
 An agent skill for designing seamless 4:5 Instagram photo and video carousels. See [SKILL.md](SKILL.md) for the workflow.
 
+## What it can do
+
+- **Choose a lead.** Tell the agent who to feature on the cover and at key moments. If several people could be the lead and you haven't picked one, the agent asks before finalizing the selection.
+- **Trim video for the carousel.** Give the agent a time range or let it pick the strongest moments from a longer clip. It fits those excerpts into the same 4:5 layout as the photos.
+
 ## Example · Alpine Rail Notes
 
 [![Four Instagram carousel pages. A Swiss mountain overlook opens the story, a red train beside an alpine lake spans the two middle pages, and Lake Sils closes the story.](examples/alpine-rail-notes/preview.jpg)](examples/alpine-rail-notes/preview.jpg)
